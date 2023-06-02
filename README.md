@@ -1,7 +1,10 @@
 # Android Draw
 A drawing view for your android application  
+  
 <img src="https://github.com/nguyenDungTien/Simple_Draw/blob/master/cover.png" width="320">  
-## 1. Use Activity
+  
+## 1. Use Activity  
+  
 ```kotlin
 class MainActivity : AppCompatActivity() {
     //tạo đối tượng đồng hành để khia báo biến toàn cục cho phép biến được  sử dụng taonf bộ trong các class trong ứng dụng
@@ -42,7 +45,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
-## 2.Use DrawView
+## 2. Use DrawView  
 - Companion object
 ```kotlin
 companion object{
